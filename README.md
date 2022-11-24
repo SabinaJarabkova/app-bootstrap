@@ -1,1 +1,1 @@
-# app-bootstrap
+# Ukázka použití react-bootstrap
